@@ -1,6 +1,6 @@
 # Slack-Alert-Service
 
-This repository supports a generic Slack alert service. We use a trigger pub/sub to send budget alert notifications and an HTTP trigger to alert the team about Exotel call permissions on the Slack channel.
+This repository is maintaining the codebase for an alert service which takes payload a an input and send the notification to configured slack channel
 
 ## Installation
 
